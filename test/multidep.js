@@ -10,7 +10,8 @@ module.exports = {
       conf.version3,
       conf.version4,
       conf.version5,
-      conf.version6
+      conf.version6,
+      conf.version7
     ]
   }
 };

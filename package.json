@@ -86,7 +86,8 @@
     "version3": "3.2.1",
     "version4": "4.2.1",
     "version5": "5.1.0",
-    "version6": "6.0.2"
+    "version6": "6.0.2",
+    "version7": "7.0.0-rc.0"
   },
   "prettier": {
     "printWidth": 80,
